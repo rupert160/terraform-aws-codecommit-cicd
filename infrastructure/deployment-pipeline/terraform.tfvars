@@ -1,1 +1,1 @@
-image_name = "test_image"
+image_name = "sample-express-app"
